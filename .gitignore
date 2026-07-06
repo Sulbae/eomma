@@ -3,7 +3,7 @@ eomma-web/node_modules/
 eomma-web/.next/
 
 # Backend
-eomma-api/venv/
+eomma-api/eomma-env/
 eomma-api/__pycache__/
 eomma-api/.env
 
